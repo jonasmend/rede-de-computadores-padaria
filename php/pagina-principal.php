@@ -32,7 +32,7 @@
           <div class="col-xs-6 col-md-4">
               <h3>Clientes</h3>
               <p>Manipulação de clientes.</p>
-              <a href="pagina-clientes.php">
+              <a href="#">
                 <button class="btn btn-outline-light">Acessar</button>
               </a>
           </div>
@@ -48,7 +48,7 @@
               <h3>Vendas</h3>
               <p>Manipulação de Vendas
               </p>
-              <a href="pagina-vendas.php">
+              <a href="#">
                 <button class="btn btn-outline-light">Acessar</button>
               </a>
           </div>
