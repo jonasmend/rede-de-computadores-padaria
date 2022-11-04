@@ -21,9 +21,9 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-link" href="pagina-clientes.php">Clientes</a>
+          <a class="nav-link" href="#">Clientes</a>
           <a class="nav-link" href="pagina-produtos.php">Produtos</a>
-          <a class="nav-link" href="pagina-vendas.php">Vendas</a>
+          <a class="nav-link" href="#">Vendas</a>
         </div>
       </div>
     </div>
